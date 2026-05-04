@@ -1,8 +1,7 @@
-One of the biggest challenges in water regulation? 
-Agencies don't trust their own data.
-
-That means pollution events go unnoticed for months, 
-enforcement is delayed, and public health is at risk.
+Clean water starts with trustworthy data. When agencies 
+have confidence in what their sensors are telling them, 
+they can respond faster, enforce smarter, and protect 
+public health before problems escalate.
 
 So I built a solution.
 
